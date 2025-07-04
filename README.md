@@ -1,5 +1,3 @@
-# Hi, I'm Thainara. 👋
-<h2> I'm currently studying Programming and Cybersecurity, and I have a degree in Systems Analysis and Development. I'll be sharing my learnings here.</h2>
 
 
 <div>
