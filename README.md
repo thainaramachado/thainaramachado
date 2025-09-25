@@ -27,7 +27,7 @@
 ### 📫 Como me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/thainara-machado-545272203/" target="_blank">
+  <a href="https://www.linkedin.com/in/thainara-machado-b139541a6//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/thaahmachad/" target="_blank">
