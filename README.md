@@ -1,7 +1,7 @@
 ### Olá, eu sou a Thainara Machado 👋
 
 <p align="left"> 
-  Sou uma profissional de TI com foco em desenvolvimento <strong>Backend</strong> e um grande interesse pela área de <strong>Cibersegurança</strong>. O meu objetivo é construir aplicações seguras, robustas e eficientes, combinando as melhores práticas de ambas as áreas.
+  Sou uma profissional de TI com foco em desenvolvimento <strong>Backend</strong>. O meu objetivo é construir aplicações seguras, robustas e eficientes.
 </p>
 
 ---
